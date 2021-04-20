@@ -1,2 +1,2 @@
 # training
-- Create website by PHP -test
+- Create website by PHP
